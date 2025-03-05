@@ -1,0 +1,7 @@
+In this project, I conducted a comprehensive billing and margin analysis using both SQL and Excel. I worked independently to merge and analyze data, including monthly billing records and vendor rates. The analysis focused on understanding total billing per client, gross margins, and vendor cost optimization.
+
+I used SQL to clean and transform the data, performing necessary aggregations and calculations to compute total billing, vendor cost, and gross margin percentages. I applied different vendor billing rules (e.g., fixed intervals, per-second billing, and minimum charges) to accurately calculate costs and margins.
+
+In Excel, I created dynamic pivot tables and applied advanced formulas to calculate gross margins by client, country, vendor, and number type. I also set up input cells for rate changes to allow for dynamic updates in billing and margin calculations, providing flexibility to analyze the impact of changes in rates (such as mobile and landline rate increases).
+
+The final analysis resulted in insights on the overall profitability of clients, vendors, and regions, and provided recommendations on how to adjust pricing strategies and vendor relationships to optimize margins. The project also included a What-If Analysis to simulate the impact of rate increases on gross margin targets, which was critical in helping the team understand cost structures, forecast potential revenue impacts, and make data-driven decisions to achieve margin target.
